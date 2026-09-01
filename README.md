@@ -1,6 +1,6 @@
 # A small desktop app (built with Python/tkinter) for batch-copying files with custom names and folder organization.
 
-[]
+### 👉 [Download the latest version](https://github.com/Raidex81/Riftgate/releases/latest)
 
 ## What it does:
 
