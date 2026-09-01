@@ -5,6 +5,8 @@ A small desktop app for batch-copying files with custom names and automatic fold
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
+### 👉 [Download the latest version](https://github.com/RicFausto/CopyRename/releases/latest)
+
 ## Features
 
 - **Select multiple files** at once via a native file picker.
