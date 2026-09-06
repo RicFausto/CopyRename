@@ -7,7 +7,7 @@ A small desktop app for batch-copying files with custom names and automatic fold
 
 The app runs standalone with no internet connection or external accounts needed.
 
-### 👉 [Download the latest version](https://github.com/RicFausto/Copy-Rename/releases/latest)
+### 👉 [Download the latest version](https://github.com/RicFausto/CopyRename/releases/latest)
 
 ## Features
 
